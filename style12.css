@@ -1,0 +1,29 @@
+.wrap {
+  height: 500px;
+  width: 300px;
+  background-color: #f5f5dd;
+}
+
+.box {
+  float: center;
+  width: 100px;
+  height: 100px;
+  margin: 10px;
+  margin-left: 30%;
+}
+
+.aq {
+  background-color: rgba(0, 0, 0, 0.999);
+}
+
+.bq {
+  background-color: rgba(50, 50, 50, 0.999);
+}
+
+.cq {
+  background-color: rgba(125, 125, 125, 0.999);
+}
+
+.dq {
+  background-color: rgba(170, 170, 170, 0.999);
+}
