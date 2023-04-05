@@ -2,14 +2,19 @@
   height: 500px;
   width: 300px;
   background-color: #f5f5dd;
+  padding: 15px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+  align-items: center;
 }
 
 .box {
-  float: center;
+  
   width: 100px;
   height: 100px;
   margin: 10px;
-  margin-left: 30%;
+
 }
 
 .aq {
@@ -17,13 +22,13 @@
 }
 
 .bq {
-  background-color: rgba(50, 50, 50, 0.999);
+  background-color: rgba(0, 0, 0, 0.8);
 }
 
 .cq {
-  background-color: rgba(125, 125, 125, 0.999);
+  background-color: rgba(0, 0, 0, 0.7);
 }
 
 .dq {
-  background-color: rgba(170, 170, 170, 0.999);
+  background-color: rgba(0, 0, 0, 0.5);
 }
