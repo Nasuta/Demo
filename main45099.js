@@ -10,3 +10,6 @@ function longerWords(str1, str2) {
 }
 
 console.log(longerWords(str1, str2));
+
+
+
